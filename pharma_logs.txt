@@ -1,0 +1,98 @@
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=1
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=10
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=9
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=8
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=7
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=6
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=5
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=4
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=3
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=2
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=1
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=10
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=9
+
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+search term: pharma page: 1
+from: 2008-01-01 01:00:00
+to: 2014-01-01 01:00:00
+http://www.ots.at/api/liste?app=5359f98af2e4d8f738170b82b8eeaece&query=%28pharma%29&inhalt=alle&von=1199142000&bis=1388530800&anz=500&format=json&page=8
+
